@@ -41,7 +41,6 @@ extensions = [
     "sphinx_search.extension",
     "sphinxemoji.sphinxemoji",
     "sphinx_design",
-    "myst_parser",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
