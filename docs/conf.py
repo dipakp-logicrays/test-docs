@@ -100,7 +100,7 @@ hoverxref_ignore_refs = [
 # -- Options for Epub output -------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = project
+# epub_title = project
 
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
@@ -112,10 +112,10 @@ epub_title = project
 # epub_uid = ''
 
 # A list of files that should not be packed into the epub file.
-epub_exclude_files = ['search.html']
+# epub_exclude_files = ['search.html']
 
 # Disable epub mimetype warnings
-suppress_warnings = ["epub.unknown_project_files"]
+# suppress_warnings = ["epub.unknown_project_files"]
 
 # If true, links to the reST sources are added to the pages.
 html_show_sourcelink = False
