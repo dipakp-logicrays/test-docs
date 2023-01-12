@@ -78,7 +78,6 @@ sphinxcontrib-video @ git+https://github.com/readthedocs/sphinxcontrib-video/
     # via -r requirements/docs.in
 sphinxemoji==0.2.0
     # via -r requirements/docs.in
-sphinx_search
 wcwidth==0.2.5
     # via
     #   -r requirements/pip.txt
