@@ -91,3 +91,5 @@ hoverxref_role_types = {
     "confval": "tooltip",  # for custom object
     "term": "tooltip",  # for glossaries
 }
+hoverxref_ignore_refs = [
+]

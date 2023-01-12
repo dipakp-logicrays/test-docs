@@ -28,7 +28,7 @@ Example
 
       On Tab1,
       we are able to provide a CDN to all the projects that we host.
-      This service is graciously sponsored by 
+      This service is graciously sponsored by ..
 
       We bust the cache on the CDN when the following actions happen:
 
