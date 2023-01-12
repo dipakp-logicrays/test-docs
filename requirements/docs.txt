@@ -78,7 +78,7 @@ sphinxcontrib-video @ git+https://github.com/readthedocs/sphinxcontrib-video/
     # via -r requirements/docs.in
 sphinxemoji==0.2.0
     # via -r requirements/docs.in
-
+sphinx_search
 wcwidth==0.2.5
     # via
     #   -r requirements/pip.txt
@@ -90,3 +90,6 @@ websocket-client==1.4.2
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+
+notfound.extension==0.8.3
+myst_parser==0.17.2
